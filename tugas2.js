@@ -5,8 +5,3 @@ var d = null
 var e;
 
 console.log(a,b,c,d,e);
-
-// create function a+b
-function add(a,b){
-    return a+b
-}
